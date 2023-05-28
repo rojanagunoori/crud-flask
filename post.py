@@ -2,7 +2,7 @@ from flask import Flask, g, request, jsonify
 import sqlite3
 
 app = Flask(__name__)
-DATABASE = 'C:/Users/DELL/Desktop/crud-flask/raju.db'
+DATABASE = 'C:/Users/DELL/Desktop/crud-flask/anju.db'
 
 
 def get_db():
